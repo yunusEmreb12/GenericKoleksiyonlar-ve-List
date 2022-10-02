@@ -1,0 +1,1 @@
+(C# Generic Koleksiyonlar ve List(Koleksiyonlar)) [https://app.patika.dev/courses/csharp-101/2-generic-koleksiyonlar]
